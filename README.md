@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rikita
-- 👀 I’m interested in python,power Bi,tableau.
-- 🌱 I’m currently learning data science.
-- 💞️ I’m looking to collaborate on python, power Bi and tableau projects.
+- 👀 I’m currently learning data analytics and devOps.
+- 🌱 I’m looking to collaborate on projects on data analytics and devOps.
 - 📫 How to reach me 
 https://www.linkedin.com/in/rikita-patnaik-2a08b3179
 
