@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rikita
-- 👀 I’m currently learning data analytics and devOps.
+- 👀 I’m currently pursuing data science.
 - 🌱 I’m looking to collaborate on projects on data analytics and devOps.
 - 📫 How to reach me 
 https://www.linkedin.com/in/rikita-patnaik-2a08b3179
