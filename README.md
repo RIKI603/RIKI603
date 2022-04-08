@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rikita
 - 👀 I’m currently pursuing data science.
-- 🌱 I’m looking to collaborate on projects in data analytics.
+- 🌱 I’m looking to work in data visulization jobs.
 - 📫 How to reach me: rikita.patnaik715@gmail.com
 - https://www.linkedin.com/in/rikita-patnaik-2a08b3179
 <!---
